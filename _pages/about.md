@@ -5,12 +5,11 @@ permalink: /
 subtitle: <a href='#'></a>PhD Candidate | Department of Biomedical Engineering, Duke University
 
 profile:
-  align: left
+  align: right
   image: portrait.png
   image_circular: false # crops the image to make it circular
-  more_info: #>
-    # <p>Wilkinson Building</p>
-    # <p>Durham, North Carolina</p>
+  more_info: >
+    <p>Contact: tianqing.li@duke.edu</p>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -24,6 +23,11 @@ Before Duke, I completed my undergraduate in Applied Mathematics and Bioengineer
 
 Outside of research, I enjoy reading mystery and detective fiction. Some of my favorites are *The Seventh Hypothesis* by Paul Halter, *The Tokyo Zodiac Murders* and *The Knight Stranger* by Soji Shimada. 
 
+**Research Interests**
+- 3D motion capture in unconstrained social rodents
+- unsupervised behavioral/motion representation learning
+- social phenotyping of neuropsychiatric diseases (autism)
+- deep learning for computational neuroscience & ethology
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
