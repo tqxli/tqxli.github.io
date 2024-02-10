@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - tqxli
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - tqxli/sdannce
+  - tqxli/dannce-pytorch
+  - spoonsso/dannce
+  - tqxli/self_supervised_learning_in_medical_imaging
+  - tqxli/breast_ultrasound_lesion_segmentation_PyTorch

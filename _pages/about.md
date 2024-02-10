@@ -2,25 +2,31 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'></a>PhD Candidate | Department of Biomedical Engineering, Duke University
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: portrait.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: #>
+    # <p>Wilkinson Building</p>
+    # <p>Durham, North Carolina</p>
 
 news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
+latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome! I am currently a third year BME PhD student at Duke University, advised by Dr. [Timothy Dunn](https://www.tdunnlab.org/). My research has focused on building computer vision tools that **measure how lab animals move, quantitatively and precisely in 3D**, together with data-driven frameworks that efficiently transform behavioral dynamics into informative representations, ultimately in connection with the brain.
+
+Before Duke, I completed my undergraduate in Applied Mathematics and Bioengineering at University of California, Los Angeles. I worked on AI-facilitated medical image analysis at UCLA Medical Informatics advised by Professor [William Hsu](https://mii.ucla.edu/people/william-hsu-phd), mainly upon CT scan denoising and breast lesion detection in ultrasound.
+
+Outside of research, I enjoy reading mystery and detective fiction. Some of my favorites are *The Seventh Hypothesis* by Paul Halter, *The Tokyo Zodiac Murders* and *The Knight Stranger* by Soji Shimada. 
+
+
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
