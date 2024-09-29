@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome! I am currently a third year BME PhD student at Duke University, advised by Dr. [Timothy Dunn](https://www.tdunnlab.org/). My research has focused on building computer vision tools that **measure how lab animals move, quantitatively and precisely in 3D**, together with data-driven frameworks that efficiently transform behavioral dynamics into informative representations, ultimately in connection with the brain.
+Welcome! I am a PhD Candidate in Biomedical Engineering at Duke University, advised by Dr. [Timothy Dunn](https://www.tdunnlab.org/). My research has focused on building computer vision tools that **measure how lab animals move, quantitatively and precisely in 3D**, together with data-driven frameworks that efficiently transform behavioral dynamics into informative representations, ultimately in connection with the brain.
 
 Before Duke, I completed my undergraduate in Applied Mathematics and Bioengineering at University of California, Los Angeles. I worked on AI-facilitated medical image analysis at UCLA Medical Informatics advised by Professor [William Hsu](https://mii.ucla.edu/people/william-hsu-phd), mainly upon CT scan denoising and breast lesion detection in ultrasound.
 
